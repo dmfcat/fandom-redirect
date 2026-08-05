@@ -2,6 +2,8 @@
 // @name            Fandom Redirect
 // @description     Simple userscript that redirects specific fandom wiki sites to their official counterparts
 // @author          dmfcat
+// @homepageURL     https://github.com/dmfcat/fandom-redirect
+// @downloadURL     https://raw.githubusercontent.com/dmfcat/fandom-redirect/refs/heads/main/fandom-redirect.user.js
 // @version         1.0
 // @match           https://*.fandom.com/*
 // @license         MIT
